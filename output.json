@@ -1,5 +1,4 @@
 [
-  //DATA KESEHATAN ANAK
   {
     "judul": "Transposisi Arteri Besar",
     "definisi": "\nTransposisi Arteri Besar adalah kelainan letak dari aorta dan arteri pulmonalis.\nDalam keadaan normal, aorta berhubungan dengan ventrikel kiri jantung dan arteri pulmonalis berhubungan dengan ventrikel kanan jantung. Pada transposisi arteri besar yang terjadi adalah kebalikannya. Aorta terletak di ventikel kanan jantung dan arteri pulmonalis terletak di ventrikel kiri jantung.\nDarah dari seluruh tubuh yang kekurangan oksigen akan mengalir ke dalam aorta dan kembali dialirkan ke seluruh tubuh. Sedangkan darah yang berasal dari paru-paru dan kaya akan oksigen akan kembali dialirkan ke paru-paru.\nTransposisi arteri besar dikelompokkan ke dalam kelainan jantung sianotik, dimana terjadi pemompaan darah yang kekurangan oksigen ke seluruh tubuh, yang menyebabkan sianosis (kulit menjadi ungu kebiruan) dan sesak nafas.\n"
@@ -258,7 +257,7 @@
   },
 
 
-//DATA PENYAKIT DALAM
+
 
 
   {
@@ -403,7 +402,7 @@
   },
 
 
-//DATA JANTUNG
+
 
   {
     "judul": "Endokarditis Infektif",
@@ -530,7 +529,7 @@
     "definisi": "Penyakit Arteri Koroner / penyakit jantung koroner (Coronary Artery Disease) ditandai dengan adanya endapan lemak yang berkumpul di dalam sel yang melapisi dinding suatu arteri koronerdan menyumbat aliran darah.Endapan lemak (ateroma atau plak) terbentuk secara bertahap dan tersebar di percabangan besar dari kedua arteri koroner utama, yang mengelilingi jantung dan menyediakan darah bagi jantung.Proses pembentukan ateroma ini disebut aterosklerosis.Ateroma bisa menonjol ke dalam arteri dan menyebabkan arteri menjadi sempit. Jika ateroma terus membesar, bagian dari ateroma bisa pecah dan masuk ke dalam aliran darah atau bisa terbentuk bekuan darah di permukaan ateroma tersebut.Supaya bisa berkontraksi dan memompa secara normal, otot jantung (miokardium) memerlukan pasokan darah yang kaya akan oksigen dari arteri koroner.\nJika penyumbatan arteri koroner semakin memburuk, bisa terjadi iskemi (berkurangnya pasokan darah) pada otot jantung, menyebabkan kerusakan jantung.Penyebab utama dari iskemi miokardial adalah penyakit arteri koroner.\nKomplikasi utama dari penyakit arteri koroner adalah angina dan serangan jantung (infark miokardial)."
   },
 
-//DATA GIGI
+
 
   {
     "judul": "Palato-labio-schizis",
