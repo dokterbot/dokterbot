@@ -1,4 +1,5 @@
 [
+  //DATA KESEHATAN ANAK
   {
     "judul": "Transposisi Arteri Besar",
     "definisi": "\nTransposisi Arteri Besar adalah kelainan letak dari aorta dan arteri pulmonalis.\nDalam keadaan normal, aorta berhubungan dengan ventrikel kiri jantung dan arteri pulmonalis berhubungan dengan ventrikel kanan jantung. Pada transposisi arteri besar yang terjadi adalah kebalikannya. Aorta terletak di ventikel kanan jantung dan arteri pulmonalis terletak di ventrikel kiri jantung.\nDarah dari seluruh tubuh yang kekurangan oksigen akan mengalir ke dalam aorta dan kembali dialirkan ke seluruh tubuh. Sedangkan darah yang berasal dari paru-paru dan kaya akan oksigen akan kembali dialirkan ke paru-paru.\nTransposisi arteri besar dikelompokkan ke dalam kelainan jantung sianotik, dimana terjadi pemompaan darah yang kekurangan oksigen ke seluruh tubuh, yang menyebabkan sianosis (kulit menjadi ungu kebiruan) dan sesak nafas.\n"
@@ -257,7 +258,7 @@
   },
 
 
-
+//DATA PENYAKIT DALAM
 
 
   {
@@ -402,19 +403,31 @@
   },
 
 
-
+//DATA JANTUNG
 
   {
-    "judul": "Atrial Septal Defect",
-    "definisi": "Defek Septum Atrium (ASD, Atrial Septal Defect) adalah suatu lubang pada dinding (septum) yang memisahkan jantung bagian atas (atrium kiri dan atrium kanan)"
+    "judul": "Endokarditis Infektif",
+    "definisi": "\nEndokarditis Infektif adalah infeksi pada endokardium (selaput jantung) dan katup jantung.\n"
   },
   {
-    "judul": "Tetralogi Fallot",
-    "definisi": "\nDefek septum ventrikel (lubang diantara ventrikel kiri dan kanan)\nStenosis katup pulmoner (penyempitan pada katup pulmonalis)\nTransposisi aorta \nHipertrofi ventrikel kanan (penebalan otot ventrikel kanan).\n"
+    "judul": "Endokarditis Non-infektif",
+    "definisi": "Endokarditis Non-infektif adalah suatu keadaan yang ditandai dengan adanya bekuan-bekuan darah pada katup jantung yang rusak. Yang merupakan reaksi akibat trauma, kompleks imun, reaksi hiperkoagulasi."
   },
   {
-    "judul": "Sindroma Hipoplastik Jantung Kiri",
-    "definisi": "\nSindroma Ventrikel Kiri Yg Tidak Berkembang (Sindroma Hipoplastik Jantung Kiri) adalah suatu keadaan dimana bagian kiri jantung tidak berkembang. .\nTugas utama dari ventrikel kiri adalah memompa darah ke seluruh tubuh.\nJika ventrikel kiri dan katupnya tidak berkembang atau tidak terbentuk, maka akan terjadi gangguan aliran darah ke seluruh tubuh.\n"
+    "judul": "Hipotensi",
+    "definisi": "\nHipotensi (tekanan darah rendah) adalah suatu keadaan dimana tekanan darah lebih rendah dari 90/60 mmHg atau tekanan darah cukup rendah sehingga menyebabkan gejala-gejala seperti pusing dan pingsan.\n"
+  },
+  {
+    "judul": "Stable Angina & Unstable Angina",
+    "definisi": "\nAngina (angina pektoris) merupakan nyeri dada sementara atau suatu perasaan tertekan, yang terjadi jika otot jantung mengalami kekurangan oksigen.\n"
+  },
+  {
+    "judul": "Supraventricular Tachycardia (SVT)",
+    "definisi": "\nKebanyakan orang mengalami palpation, nafas yang pendek, dan nyeri dada.\nPeristiwa bisa sering dihentikan dengan maneuver yang merangsang syaraf vagus, yang memperlambat denyut jantung.\nKadangkala, orang diberikan obat-obatan untuk menghentikan peristiwa tersebut.\n"
+  },
+  {
+    "judul": "Debar Atrium",
+    "definisi": "\nDalam keadaan normal, impuls yang dihasilkan oleh alat pacu jantung alami, nodus sinoatrial atau sinus yang terletak di atrium kanan.\nImpuls yang berjalan di atrium, menghasilkan kontraksi atrium\nImpuls jeda sangat singkat pada nodus atrioventrikular yang terletak di bagian atas dinding otot antara kedua ventrikel. Penundaan ini memberikan waktu darah untuk berpindah dari atrium ke ventrikel.\nImpuls kemudian bergerak ke bawah dan melalui ventrikel, menghasilkan kontraksi ventrikel, yang memompa darah keluar dari ventrikel.\n"
   },
   {
     "judul": "Perikarditis akut",
@@ -437,40 +450,16 @@
     "definisi": "\nRegurgitasi Katup Mitral (Inkompetensia Mitral, Insufisiensi Mitral), (Mitral Regurgitation) adalah kebocoran aliran balik melalui katup mitral setiap kali ventrikel kiri berkontraksi.\n"
   },
   {
-    "judul": "Transposisi Arteri Besar",
-    "definisi": "\nTransposisi Arteri Besar adalah kelainan letak dari aorta dan arteri pulmonalis.\nDalam keadaan normal, aorta berhubungan dengan ventrikel kiri jantung dan arteri pulmonalis berhubungan dengan ventrikel kanan jantung. Pada transposisi arteri besar yang terjadi adalah kebalikannya. Aorta terletak di ventikel kanan jantung dan arteri pulmonalis terletak di ventrikel kiri jantung.\nDarah dari seluruh tubuh yang kekurangan oksigen akan mengalir ke dalam aorta dan kembali dialirkan ke seluruh tubuh. Sedangkan darah yang berasal dari paru-paru dan kaya akan oksigen akan kembali dialirkan ke paru-paru.\nTransposisi arteri besar dikelompokkan ke dalam kelainan jantung sianotik, dimana terjadi pemompaan darah yang kekurangan oksigen ke seluruh tubuh, yang menyebabkan sianosis (kulit menjadi ungu kebiruan) dan sesak nafas.\n"
+    "judul": "Atrial Septal Defect",
+    "definisi": "Defek Septum Atrium (ASD, Atrial Septal Defect) adalah suatu lubang pada dinding (septum) yang memisahkan jantung bagian atas (atrium kiri dan atrium kanan)"
   },
   {
-    "judul": "Patent Ductus Arteriosus",
-    "definisi": "\nPatent Ductus Arteriosus (PDA) adalah duktus arteriosus yang tetap terbuka.\nDuktus arteriosus adalah suatu pembuluh darah yang menghubungkan aorta (pembuluh arteri besar yang mengangkut darah ke seluruh tubuh) dengan arteri pulmonalis (arteri yang membawa darah ke paru-paru), yang merupakan bagian dari peredaran darah yang normal pada janin.\nDuktus arteriosus memungkinkan darah untuk tidak melewati paru-paru. Pada janin, fungsi ini penting karena janin tidak menghirup udara sehingga darah janin tidak perlu beredar melewati paru-paru agar mengandung banyak oksigen. Janin menerima oksigen dan zat makanan dari plasenta (ari-ari).\nTetapi pada saat lahir, ketika bayi mulai bernafas, duktus arteriosus akan menutup karena darah harus mengalir ke paru-paru agar mengandung banyak oksigen. Pada 95% bayi baru lahir, penutupan duktus terjadi dalam waktu 48-72 jam.\nKelainan ini bisa terjadi baik pada bayi prematur maupun pada bayi cukup umur, dan ditemukan pada 1 diantara 2500-5000 bayi.\nBiasanya gejalanya ringan, tetapi akan semakin berat jika tidak diobati/diperbaiki pada usia 2 tahun\n"
+    "judul": "Tetralogi Fallot",
+    "definisi": "\nDefek septum ventrikel (lubang diantara ventrikel kiri dan kanan)\nStenosis katup pulmoner (penyempitan pada katup pulmonalis)\nTransposisi aorta \nHipertrofi ventrikel kanan (penebalan otot ventrikel kanan).\n"
   },
   {
-    "judul": "Koartasio Aorta",
-    "definisi": "\nKoartasio Aorta adalah penyempitan pada aorta, yang biasanya terjadi pada titik dimana duktus arteriosus tersambung dengan aorta dan aorta membelok ke bawah.\n\nAorta adalah arteri utama pada tubuh. Aorta mengedarkan darah yang kaya akan oksigen ke seluruh bagian tubuh, kecuali paru-paru.\nCabang pertama dari aorta mengalirkan darah ke tubuh bagian atas (lengan dan kepala). Kemudian darah mengalir ke tubuh bagian bawah (perut dan tungkai)\n"
-  },
-  {
-    "judul": "Stable Angina & Unstable Angina",
-    "definisi": "\nAngina (angina pektoris) merupakan nyeri dada sementara atau suatu perasaan tertekan, yang terjadi jika otot jantung mengalami kekurangan oksigen.\n"
-  },
-  {
-    "judul": "Supraventricular Tachycardia (SVT)",
-    "definisi": "\nKebanyakan orang mengalami palpation, nafas yang pendek, dan nyeri dada.\nPeristiwa bisa sering dihentikan dengan maneuver yang merangsang syaraf vagus, yang memperlambat denyut jantung.\nKadangkala, orang diberikan obat-obatan untuk menghentikan peristiwa tersebut.\n"
-  },
-  {
-    "judul": "Debar Atrium",
-    "definisi": "\nDalam keadaan normal, impuls yang dihasilkan oleh alat pacu jantung alami, nodus sinoatrial atau sinus yang terletak di atrium kanan.\nImpuls yang berjalan di atrium, menghasilkan kontraksi atrium\nImpuls jeda sangat singkat pada nodus atrioventrikular yang terletak di bagian atas dinding otot antara kedua ventrikel. Penundaan ini memberikan waktu darah untuk berpindah dari atrium ke ventrikel.\nImpuls kemudian bergerak ke bawah dan melalui ventrikel, menghasilkan kontraksi ventrikel, yang memompa darah keluar dari ventrikel.\n"
-  },
-  {
-    "judul": "Endokarditis Infektif",
-    "definisi": "\nEndokarditis Infektif adalah infeksi pada endokardium (selaput jantung) dan katup jantung.\n"
-  },
-  {
-    "judul": "Endokarditis Non-infektif",
-    "definisi": "Endokarditis Non-infektif adalah suatu keadaan yang ditandai dengan adanya bekuan-bekuan darah pada katup jantung yang rusak. Yang merupakan reaksi akibat trauma, kompleks imun, reaksi hiperkoagulasi."
-  },
-  {
-    "judul": "Hipotensi",
-    "definisi": "\nHipotensi (tekanan darah rendah) adalah suatu keadaan dimana tekanan darah lebih rendah dari 90/60 mmHg atau tekanan darah cukup rendah sehingga menyebabkan gejala-gejala seperti pusing dan pingsan.\n"
+    "judul": "Sindroma Hipoplastik Jantung Kiri",
+    "definisi": "\nSindroma Ventrikel Kiri Yg Tidak Berkembang (Sindroma Hipoplastik Jantung Kiri) adalah suatu keadaan dimana bagian kiri jantung tidak berkembang. .\nTugas utama dari ventrikel kiri adalah memompa darah ke seluruh tubuh.\nJika ventrikel kiri dan katupnya tidak berkembang atau tidak terbentuk, maka akan terjadi gangguan aliran darah ke seluruh tubuh.\n"
   },
   {
     "judul": "Fibrilasi Atrium",
@@ -485,18 +474,6 @@
     "definisi": "Disseminated Intravascular Coagulation (DIC) adalah suatu keadaan dimana bekuan-bekuan darah kecil tersebar di seluruh aliran darah, menyebabkan penyumbatan pada pembuluh darah kecil dan berkurangnya faktor pembekuan yang diperlukan untuk mengendalikan perdarahan."
   },
   {
-    "judul": "Stenosis Katup Mitral",
-    "definisi": "Stenosis Katup Mitral (,i>Mitral Stenosis) merupakan penyempitan pada lubang katup mitral yang akan menyebabkan meningkatnya tahanan aliran darah dari atrium kiri ke ventrikel kiri.\n"
-  },
-  {
-    "judul": "Regurgitasi Katup Aorta",
-    "definisi": "Regugitasi Katup Aorta (Inkompetensia Aorta, Insuffisiensi Aorta, Aortic Regurgitation) adalah kebocoran pada katup aorta yang terjadi setiap kali ventrikel mengalami relaksasi."
-  },
-  {
-    "judul": "Aortic Stenosis",
-    "definisi": "Stenosis Katup Aorta (Aortic Stenosis) adalah penyempitan pada lubang katup aorta, yang menyebabkan meningkatnya tahanan terhadap aliran darah dari ventrikel kiri ke aorta."
-  },
-  {
     "judul": "Shock",
     "definisi": "Syok adalah suatu keadaan serius yang terjadi jika sistem kardiovaskuler (jantung dan pembuluh darah) tidak mampu mengalirkan darah ke seluruh tubuh dalam jumlah yang memadai; syok biasanya berhubungan dengan tekanan darah rendah dan kematian sel maupun jaringan.Syok terjadi akibat berbagai keadaan yang menyebabkan berkurangnya aliran darah, termasuk kelainan jantung (misalnya serangan jantung atau gagal jantung), volume darah yang rendah (akibat perdarahan hebat atau dehidrasi) atau perubahan pada pembuluh darah (misalnya karena reaksi alergi atau infeksi).Syok digolongkan ke dalam beberapa kelompok:"
   },
@@ -509,6 +486,42 @@
     "definisi": "\nTrombosis Vena Dalam (Deep Vein Thrombosis (DVT)) adalah suatu keadaan yang ditandai dengan ditemukannya bekuan darah di dalam vena dalam.\n"
   },
   {
+    "judul": "Transposisi Arteri Besar",
+    "definisi": "\nTransposisi Arteri Besar adalah kelainan letak dari aorta dan arteri pulmonalis.\nDalam keadaan normal, aorta berhubungan dengan ventrikel kiri jantung dan arteri pulmonalis berhubungan dengan ventrikel kanan jantung. Pada transposisi arteri besar yang terjadi adalah kebalikannya. Aorta terletak di ventikel kanan jantung dan arteri pulmonalis terletak di ventrikel kiri jantung.\nDarah dari seluruh tubuh yang kekurangan oksigen akan mengalir ke dalam aorta dan kembali dialirkan ke seluruh tubuh. Sedangkan darah yang berasal dari paru-paru dan kaya akan oksigen akan kembali dialirkan ke paru-paru.\nTransposisi arteri besar dikelompokkan ke dalam kelainan jantung sianotik, dimana terjadi pemompaan darah yang kekurangan oksigen ke seluruh tubuh, yang menyebabkan sianosis (kulit menjadi ungu kebiruan) dan sesak nafas.\n"
+  },
+  {
+    "judul": "Patent Ductus Arteriosus",
+    "definisi": "\nPatent Ductus Arteriosus (PDA) adalah duktus arteriosus yang tetap terbuka.\nDuktus arteriosus adalah suatu pembuluh darah yang menghubungkan aorta (pembuluh arteri besar yang mengangkut darah ke seluruh tubuh) dengan arteri pulmonalis (arteri yang membawa darah ke paru-paru), yang merupakan bagian dari peredaran darah yang normal pada janin.\nDuktus arteriosus memungkinkan darah untuk tidak melewati paru-paru. Pada janin, fungsi ini penting karena janin tidak menghirup udara sehingga darah janin tidak perlu beredar melewati paru-paru agar mengandung banyak oksigen. Janin menerima oksigen dan zat makanan dari plasenta (ari-ari).\nTetapi pada saat lahir, ketika bayi mulai bernafas, duktus arteriosus akan menutup karena darah harus mengalir ke paru-paru agar mengandung banyak oksigen. Pada 95% bayi baru lahir, penutupan duktus terjadi dalam waktu 48-72 jam.\nKelainan ini bisa terjadi baik pada bayi prematur maupun pada bayi cukup umur, dan ditemukan pada 1 diantara 2500-5000 bayi.\nBiasanya gejalanya ringan, tetapi akan semakin berat jika tidak diobati/diperbaiki pada usia 2 tahun\n"
+  },
+  {
+    "judul": "Koartasio Aorta",
+    "definisi": "\nKoartasio Aorta adalah penyempitan pada aorta, yang biasanya terjadi pada titik dimana duktus arteriosus tersambung dengan aorta dan aorta membelok ke bawah.\n\nAorta adalah arteri utama pada tubuh. Aorta mengedarkan darah yang kaya akan oksigen ke seluruh bagian tubuh, kecuali paru-paru.\nCabang pertama dari aorta mengalirkan darah ke tubuh bagian atas (lengan dan kepala). Kemudian darah mengalir ke tubuh bagian bawah (perut dan tungkai)\n"
+  },
+  {
+    "judul": "Stenosis Katup Mitral",
+    "definisi": "Stenosis Katup Mitral (,i>Mitral Stenosis) merupakan penyempitan pada lubang katup mitral yang akan menyebabkan meningkatnya tahanan aliran darah dari atrium kiri ke ventrikel kiri.\n"
+  },
+  {
+    "judul": "Regurgitasi Katup Aorta",
+    "definisi": "Regugitasi Katup Aorta (Inkompetensia Aorta, Insuffisiensi Aorta, Aortic Regurgitation) adalah kebocoran pada katup aorta yang terjadi setiap kali ventrikel mengalami relaksasi."
+  },
+  {
+    "judul": "Aortic Stenosis",
+    "definisi": "Stenosis Katup Aorta (Aortic Stenosis) adalah penyempitan pada lubang katup aorta, yang menyebabkan meningkatnya tahanan terhadap aliran darah dari ventrikel kiri ke aorta."
+  },
+  {
+    "judul": "Regurgitasi Katup Trikuspidalis",
+    "definisi": "\nRegurgitasi Katup Trikuspidalis (Inkompetensia Trikuspidalis, Insuffisiensi Trikuspidalis),(Tricuspid Regurgitation) adalah kebocoran pada katup trikuspidalis yang terjadi setiap kali ventrikel kanan berkontraksi.\n"
+  },
+  {
+    "judul": "Tricuspid Stenosis",
+    "definisi": "\nStenosis Katup Trikuspidalis (Tricuspid Stenosis) merupakan penyempitan lubang katup trikuspidalis, yang menyebabkan meningkatnya tahanan aliran darah dari atrium kanan ke ventrikel kanan.\n"
+  },
+  {
+    "judul": "Heart Attack",
+    "definisi": "Serangan Jantung (infark miokardial), (myocard infarct),(miokard infark) adalah suatu keadaan dimana secara tiba-tiba terjadi pembatasan atau pemutusan aliran darah ke jantung, yang menyebabkan otot jantung (miokardium) mati karena kekurangan oksigen."
+  },
+  {
     "judul": "Stenosis Katup Pulmoner",
     "definisi": "\nStenosis Katup Pulmoner adalah suatu penyempitan atau penyumbatan pada katup pulmoner.\nKatup pulmoner adalah katup pada ventrikel kanan jantung, yang akan membuka untuk mengalirkan darah ke paru-paru\n"
   },
@@ -517,7 +530,7 @@
     "definisi": "Penyakit Arteri Koroner / penyakit jantung koroner (Coronary Artery Disease) ditandai dengan adanya endapan lemak yang berkumpul di dalam sel yang melapisi dinding suatu arteri koronerdan menyumbat aliran darah.Endapan lemak (ateroma atau plak) terbentuk secara bertahap dan tersebar di percabangan besar dari kedua arteri koroner utama, yang mengelilingi jantung dan menyediakan darah bagi jantung.Proses pembentukan ateroma ini disebut aterosklerosis.Ateroma bisa menonjol ke dalam arteri dan menyebabkan arteri menjadi sempit. Jika ateroma terus membesar, bagian dari ateroma bisa pecah dan masuk ke dalam aliran darah atau bisa terbentuk bekuan darah di permukaan ateroma tersebut.Supaya bisa berkontraksi dan memompa secara normal, otot jantung (miokardium) memerlukan pasokan darah yang kaya akan oksigen dari arteri koroner.\nJika penyumbatan arteri koroner semakin memburuk, bisa terjadi iskemi (berkurangnya pasokan darah) pada otot jantung, menyebabkan kerusakan jantung.Penyebab utama dari iskemi miokardial adalah penyakit arteri koroner.\nKomplikasi utama dari penyakit arteri koroner adalah angina dan serangan jantung (infark miokardial)."
   },
 
-
+//DATA GIGI
 
   {
     "judul": "Palato-labio-schizis",
