@@ -1,5 +1,4 @@
 [
-  /*DATA KESHATAN ANAK*/
   {
     "judul": "Transposisi Arteri Besar",
     "definisi": "\nTransposisi Arteri Besar adalah kelainan letak dari aorta dan arteri pulmonalis.\nDalam keadaan normal, aorta berhubungan dengan ventrikel kiri jantung dan arteri pulmonalis berhubungan dengan ventrikel kanan jantung. Pada transposisi arteri besar yang terjadi adalah kebalikannya. Aorta terletak di ventikel kanan jantung dan arteri pulmonalis terletak di ventrikel kiri jantung.\nDarah dari seluruh tubuh yang kekurangan oksigen akan mengalir ke dalam aorta dan kembali dialirkan ke seluruh tubuh. Sedangkan darah yang berasal dari paru-paru dan kaya akan oksigen akan kembali dialirkan ke paru-paru.\nTransposisi arteri besar dikelompokkan ke dalam kelainan jantung sianotik, dimana terjadi pemompaan darah yang kekurangan oksigen ke seluruh tubuh, yang menyebabkan sianosis (kulit menjadi ungu kebiruan) dan sesak nafas.\n"
@@ -258,7 +257,6 @@
   },
 
 
-  /*DATA PENYAKIT DALAM*/
 
 
   {
@@ -403,7 +401,8 @@
   },
 
 
-  /*DATA JANTUNG*/
+
+
 
   {
     "judul": "Endokarditis Infektif",
@@ -531,7 +530,7 @@
   },
 
 
-  /*DATA GIGI*/
+
 
   {
     "judul": "Palato-labio-schizis",
